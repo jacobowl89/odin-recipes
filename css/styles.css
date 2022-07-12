@@ -1,0 +1,13 @@
+div {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.829);
+  }
+  
+  p {
+    color: red;
+  }
+
+  .content {
+    max-width: 500px;
+    margin: auto;
+  }
