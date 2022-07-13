@@ -1,13 +1,84 @@
-div {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.829);
-  }
-  
-  p {
-    color: red;
-  }
+.content {
+  margin: auto;
+  width: 30%;
+  border: 10px  rgba(0, 128, 0, 0.61);
+  padding: 10px;
+}
 
-  .content {
-    max-width: 500px;
-    margin: auto;
-  }
+#the-best-protein-pancakes {
+  font-size: 40px;
+  font-family: cursive;
+}
+
+.star {
+  font-size:150%;
+  color:rgb(241, 241, 24); 
+  border: 2px  rgba(0, 0, 0, 0.342);
+}
+
+#featured-comment {
+  color: grey;
+}
+
+#comment {
+  color: rgb(65, 65, 65);
+  font-family: serif;
+}
+
+.review {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: small;
+}
+
+.review2 {
+  font-family: serif;
+  font-size: 11px;
+}
+
+.center {
+  text-align: center;
+  border: 4px  rgba(4, 189, 4, 0.589);
+}
+
+.quote {
+  font-size: 24px;
+  font-family: serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#main-frame {
+  margin: auto;
+  width: 100%;
+  border: 5px solid rgba(107, 0, 84, 0.61);
+  background-color:  rgba(107, 0, 84, 0.61);
+  padding: 0px;
+}
+
+#second-frame {
+  box-sizing: border-box;
+  width: 102%;
+  padding: 5px;
+  border: 5px solid rgba(107, 0, 84, 0.61);
+  
+}
+
+.white {
+  color: white;
+  text-align-last: center;
+}
+
+button {
+  text-align: center;
+  color:  rgba(107, 0, 84, 0.61);
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
